@@ -11,6 +11,10 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages and Tools:
 
 - **Frontend:** `TypeScript`, `React`, `Next.js`, `Webpack`, `Vite`
@@ -18,10 +22,15 @@
 - **Databases:** `MongoDB`, `MySQL`
 - **Others:** `Docker`, `Git`
 
----
+</td>
+<td valign="top" width="50%">
 
 ### My GitHub Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-PQ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+</tr>
+</table>
 
 ---
