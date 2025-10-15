@@ -1,4 +1,4 @@
-# Hi there, I'm [Your-Name] 👋
+# Hi there, I'm Lynn. 👋
 
 ## I'm a Front-end Developer!
 
@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on interesting and challenging projects.
 - 🤔 My primary interests are in React and NestJS, and I'm always curious to learn more about them.
 - 💬 Ask me about anything related to my tech stack!
-- 📫 You can reach me at: [your-email@example.com]
+- 📫 You can reach me at: [[掘金](https://juejin.cn/user/1063982988793629)]
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### My GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lin-PQ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lin-PQ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-PQ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
