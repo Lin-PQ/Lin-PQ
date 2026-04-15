@@ -13,18 +13,18 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 ### Languages and Tools:
 
-- **AI Agent:** `langchain.js`,`langgraph.js`,`langsmith.js`
+- **AI Agent:** `Langchain.js`,`Langgraph.js`,`Langsmith.js`
 - **Frontend:** `TypeScript`, `Qiankun`,`React`, `Next.js`, `Webpack`, `Vite`
 - **Backend:** `NestJS`, `Node.js`, `Express`
 - **Databases:** `MongoDB`, `MySQL`
 - **Others:** `Docker`, `Git`
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### My GitHub Statistics
 
