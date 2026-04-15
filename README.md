@@ -17,11 +17,11 @@
 
 ### Languages and Tools:
 
+- **AI Agent:** `langchain.js`,`langgraph.js`,`langsmith.js`
 - **Frontend:** `TypeScript`, `Qiankun`,`React`, `Next.js`, `Webpack`, `Vite`
 - **Backend:** `NestJS`, `Node.js`, `Express`
 - **Databases:** `MongoDB`, `MySQL`
 - **Others:** `Docker`, `Git`
-- **AI Agent:** `langchain.js`,`langgraph.js`,`langsmith.js`
 
 </td>
 <td valign="top" width="50%">
